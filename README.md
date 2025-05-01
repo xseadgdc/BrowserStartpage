@@ -1,4 +1,4 @@
-# Startpage - A Simple and Clean New Tab Interface for your Browser
+# [Startpage](https://xseadgdc.github.io/BrowserStartpage/startpage.html) - A Simple and Clean New Tab Interface for your Browser
 Even yet another homepage for your browser! Its sleek, elegant, and unique design limits distraction while being eye-candy (at least to certain men like me that like orange on black). Feel free to clone/fork this repo and modify it to your needs!
 ## Screenshot
 ![Screenshot of Startpage](./Startpage.png)
